@@ -1,0 +1,2 @@
+# Multivariable_function_estimation_using_genetic_algorithms
+Estimating a  Multi-variable Function Using Genetic Algorithms with Gaussian Components
